@@ -1,0 +1,9 @@
+.background-hero {
+    background-image: url(https://media.istockphoto.com/id/1409878886/photo/close-up-photo-of-man-hands-writing-notes-in-a-notebook-during-lecture-at-college.jpg?s=612x612&w=0&k=20&c=-wqDcrbjCAOTNM6A4-yTLUtKsooOBFXZgGEdLumkRrA=
+);
+    background-size: cover;
+}
+
+.footer-map {
+    height: 30vh;
+}
